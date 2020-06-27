@@ -29,6 +29,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
+    "readme-md-generator": "^1.0.0",
     "uuidv4": "^6.0.7"
   }
 }
